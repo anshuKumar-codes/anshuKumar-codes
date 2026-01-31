@@ -14,6 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+## 📊 GitHub Stats
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=anshuKumar-codes&theme=github-compact)
 ![](https://nirzak-streak-stats.vercel.app/?user=anshuKumar-codes&theme=dark&hide_border=false)
 ![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=anshuKumar-codes&layout=compact&theme=dark)
