@@ -1,4 +1,4 @@
-# Anshu kumar | BCA Student | Data analytics
+# Anshu kumar | BCA Student | Data Analytics
 
 <!--
 **anshuKumar-codes/anshuKumar-codes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
